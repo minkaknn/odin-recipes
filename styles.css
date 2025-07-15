@@ -1,0 +1,14 @@
+* {
+    font-family: Copperplate, Papyrus, fantasy;
+    color: rgb(48, 24, 1);
+    background-color: rgb(188, 163, 138);
+
+}
+
+ul, ol {
+    line-height: 200%;
+}
+
+h1 {
+    font-size: 40px;
+}
